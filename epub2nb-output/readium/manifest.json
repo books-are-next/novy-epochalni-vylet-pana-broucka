@@ -1,0 +1,165 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Nový epochální výlet pana Broučka tentokrát do 15. století",
+    "identifier": "3b9d7d8b-e83d-4f6b-be01-2aaae83f57dd",
+    "author": "Svatopluk Čech",
+    "language": "cs",
+    "Sigil version": "0.3.0"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0002.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/pd-88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "I.",
+      "href": "OEBPS/Text/Section0003.xhtml"
+    },
+    {
+      "title": "II.",
+      "href": "OEBPS/Text/Section0004.xhtml"
+    },
+    {
+      "title": "III.",
+      "href": "OEBPS/Text/Section0005.xhtml"
+    },
+    {
+      "title": "IV.",
+      "href": "OEBPS/Text/Section0006.xhtml"
+    },
+    {
+      "title": "V.",
+      "href": "OEBPS/Text/Section0007.xhtml"
+    },
+    {
+      "title": "VI.",
+      "href": "OEBPS/Text/Section0008.xhtml"
+    },
+    {
+      "title": "VII.",
+      "href": "OEBPS/Text/Section0009.xhtml"
+    },
+    {
+      "title": "VIII.",
+      "href": "OEBPS/Text/Section0010.xhtml"
+    },
+    {
+      "title": "IX.",
+      "href": "OEBPS/Text/Section0011.xhtml"
+    },
+    {
+      "title": "X.",
+      "href": "OEBPS/Text/Section0013.xhtml"
+    },
+    {
+      "title": "XI.",
+      "href": "OEBPS/Text/Section0014.xhtml"
+    },
+    {
+      "title": "XII.",
+      "href": "OEBPS/Text/Section0015.xhtml"
+    },
+    {
+      "title": "XIII.",
+      "href": "OEBPS/Text/Section0016.xhtml"
+    },
+    {
+      "title": "XIV.",
+      "href": "OEBPS/Text/Section0017.xhtml"
+    }
+  ]
+}
