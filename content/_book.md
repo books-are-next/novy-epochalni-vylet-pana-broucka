@@ -2,11 +2,16 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Nový epochální výlet pana Broučka tentokrát do 15. století
   identifier: 3b9d7d8b-e83d-4f6b-be01-2aaae83f57dd
   author: Svatopluk Čech
+  edition: beletrie
+  publisherShort: mkp
+  publisher: Městská knihovna v Praze
 readingOrder:
   - section0001.html
   - section0018.html
@@ -30,6 +35,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
