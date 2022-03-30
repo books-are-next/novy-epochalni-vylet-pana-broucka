@@ -1,0 +1,501 @@
+{
+  "author": "Svatopluk Čech",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "cech-novy-epochalni-vylet-pana-broucka-tentokrat-do-15-stoleti-b813bd4",
+  "languagecode": "cs",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Nový epochální výlet pana Broučka tentokrát do 15. století",
+  "revision": "b813bd4",
+  "generatedAt": {
+    "date": "Wed Mar 30 2022 07:06:01 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648623961911
+  },
+  "documents": [
+    {
+      "title": "Nový epochální výlet pana Broučka tentokrát do 15. století",
+      "file": "section0001.html",
+      "words": 2,
+      "chars": 0,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "section0018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nový epochální výlet pana Broučka tentokrát do 15. století",
+      "file": "section0018.html",
+      "words": 69,
+      "chars": 406,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 1,
+      "prev": "section0001.html",
+      "next": "section0019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nový epochální výlet pana Broučka tentokrát do 15. století",
+      "file": "section0019.html",
+      "words": 87,
+      "chars": 765,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 2,
+      "prev": "section0018.html",
+      "next": "section0003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nový epochální výlet pana Broučka tentokrát do 15. století",
+      "file": "section0003.html",
+      "words": 1819,
+      "chars": 11692,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 3,
+      "prev": "section0019.html",
+      "next": "section0004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I.",
+              "id": "i",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nový epochální výlet pana Broučka tentokrát do 15. století",
+      "file": "section0004.html",
+      "words": 4507,
+      "chars": 28663,
+      "ideas": 72,
+      "role": "chapter",
+      "order": 4,
+      "prev": "section0003.html",
+      "next": "section0005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "II.",
+              "id": "ii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nový epochální výlet pana Broučka tentokrát do 15. století",
+      "file": "section0005.html",
+      "words": 2815,
+      "chars": 17113,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 5,
+      "prev": "section0004.html",
+      "next": "section0006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "III.",
+              "id": "iii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nový epochální výlet pana Broučka tentokrát do 15. století",
+      "file": "section0006.html",
+      "words": 1772,
+      "chars": 10630,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 6,
+      "prev": "section0005.html",
+      "next": "section0007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "IV.",
+              "id": "iv",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nový epochální výlet pana Broučka tentokrát do 15. století",
+      "file": "section0007.html",
+      "words": 4222,
+      "chars": 25571,
+      "ideas": 126,
+      "role": "chapter",
+      "order": 7,
+      "prev": "section0006.html",
+      "next": "section0008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "V.",
+              "id": "v",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nový epochální výlet pana Broučka tentokrát do 15. století",
+      "file": "section0008.html",
+      "words": 3746,
+      "chars": 22642,
+      "ideas": 132,
+      "role": "chapter",
+      "order": 8,
+      "prev": "section0007.html",
+      "next": "section0009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "VI.",
+              "id": "vi",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nový epochální výlet pana Broučka tentokrát do 15. století",
+      "file": "section0009.html",
+      "words": 7518,
+      "chars": 45841,
+      "ideas": 175,
+      "role": "chapter",
+      "order": 9,
+      "prev": "section0008.html",
+      "next": "section0010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "VII.",
+              "id": "vii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nový epochální výlet pana Broučka tentokrát do 15. století",
+      "file": "section0010.html",
+      "words": 4649,
+      "chars": 29207,
+      "ideas": 85,
+      "role": "chapter",
+      "order": 10,
+      "prev": "section0009.html",
+      "next": "section0011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "VIII.",
+              "id": "viii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nový epochální výlet pana Broučka tentokrát do 15. století",
+      "file": "section0011.html",
+      "words": 2944,
+      "chars": 17981,
+      "ideas": 80,
+      "role": "chapter",
+      "order": 11,
+      "prev": "section0010.html",
+      "next": "section0013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "IX.",
+              "id": "ix",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nový epochální výlet pana Broučka tentokrát do 15. století",
+      "file": "section0013.html",
+      "words": 1744,
+      "chars": 10719,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 12,
+      "prev": "section0011.html",
+      "next": "section0014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "X.",
+              "id": "x",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nový epochální výlet pana Broučka tentokrát do 15. století",
+      "file": "section0014.html",
+      "words": 3502,
+      "chars": 21255,
+      "ideas": 99,
+      "role": "chapter",
+      "order": 13,
+      "prev": "section0013.html",
+      "next": "section0015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "XI.",
+              "id": "xi",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nový epochální výlet pana Broučka tentokrát do 15. století",
+      "file": "section0015.html",
+      "words": 2162,
+      "chars": 13082,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 14,
+      "prev": "section0014.html",
+      "next": "section0016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "XII.",
+              "id": "xii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nový epochální výlet pana Broučka tentokrát do 15. století",
+      "file": "section0016.html",
+      "words": 3592,
+      "chars": 22122,
+      "ideas": 85,
+      "role": "chapter",
+      "order": 15,
+      "prev": "section0015.html",
+      "next": "section0017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "XIII.",
+              "id": "xiii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nový epochální výlet pana Broučka tentokrát do 15. století",
+      "file": "section0017.html",
+      "words": 1469,
+      "chars": 9349,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 16,
+      "prev": "section0016.html",
+      "next": "section0002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "XIV.",
+              "id": "xiv",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nový epochální výlet pana Broučka tentokrát do 15. století",
+      "file": "section0002.html",
+      "words": 33,
+      "chars": 172,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 17,
+      "prev": "section0017.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 46666,
+      "chars": 287298,
+      "ideas": 1088
+    },
+    "chapters": {
+      "words": 46652,
+      "chars": 287210,
+      "ideas": 1083
+    }
+  }
+}
