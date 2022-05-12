@@ -1,16 +1,38 @@
 {
-  "author": "Svatopluk Čech",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "cech-novy-epochalni-vylet-pana-broucka-tentokrat-do-15-stoleti-b813bd4",
-  "languagecode": "cs",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Nový epochální výlet pana Broučka tentokrát do 15. století",
-  "revision": "b813bd4",
+  "author": "Svatopluk Čech",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "cech-novy-epochalni-vylet-pana-broucka-tentokrat-do-15-stoleti-1c7d198",
+  "revision": "1c7d198",
+  "readingOrder": [
+    "section0001.html",
+    "section0018.html",
+    "section0019.html",
+    "section0003.html",
+    "section0004.html",
+    "section0005.html",
+    "section0006.html",
+    "section0007.html",
+    "section0008.html",
+    "section0009.html",
+    "section0010.html",
+    "section0011.html",
+    "section0013.html",
+    "section0014.html",
+    "section0015.html",
+    "section0016.html",
+    "section0017.html",
+    "section0002.html"
+  ],
   "generatedAt": {
-    "date": "Wed Mar 30 2022 07:06:01 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648623961911
+    "date": "Thu May 12 2022 10:41:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352094283
   },
   "documents": [
     {
