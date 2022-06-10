@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## II.  
 
 Ve čtvrtek dne 12. července t. r. (udávám přesně datum, poněvadž má v tomto cestopise zvláštní důležitost) vyšel si pan Brouček po delší době opět jednou na Hradčany.
@@ -145,3 +147,5 @@ Zatím došel k nějakým schodům a sestoupil po nich do těsné, dlouhé chodb
 „Mají tu krásný pořádek!“ zabručel, ale v duchu blahořečil neznámému domovníkovi, že se jeho nedbalostí dostal tak hravě z domu.
 
 Byl tedy opět pod boží oblohou, na volné ulici!
+
+</section>

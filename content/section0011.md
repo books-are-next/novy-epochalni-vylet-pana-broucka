@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ##  IX.
 
 Klenutou brankou vešli do domu a náš sudličník pronesl opatrně svou zbraň úzkou chodbičkou a dveřmi napravo, nyní v létě dokořán otevřenými, do stinného sklípku s klenutým stropem, jehož pěkná žebra byla dole ozdobena vytesanými pitvornými hlavičkami.
@@ -161,3 +163,5 @@ Domšík vytáhl měšec s penězi, ale krčmář vyrazil již s vytaseným tes�
 Co se s panem Broučkem v tu chvíli dělo, nemůže si určitě připamatovati; jenom nejasně se mu zdá, že Janek od Zvonu vtiskl sudlici do jeho ruky a že hrozný Vacek za ním máchal svou ohřebíkovanou palicí. Jest arci skoro jisté, že máchání to neplatilo panu Broučkovi, nýbrž Němcům křižákům, s nimiž se nedočkavý bojovník v duchu již měřil; ale pan domácí se domnívá, že hluboký respekt před touto palicí byl hlavní pobídkou, která ho v těsném klubku ostatních hostů dopravila z krčmy ven na ulici.
 
 Celou její šíří valilo se již jako dravá, rozvodněná řeka bojechtivé množství Pražanů, křičících, tlačících se, máchajících zbraněmi všeho druhu, nedbajících varovného volání některých vůdců, a strhlo i hlouček z krčmy vyběhší rázem do svého bouřlivého, neodolatelného proudu. Pan Brouček byl jím nesen kupředu, nevěda ani jak. Přiznává se, že v té chvíli byl skoro bez ducha, bez myšlenky; cítil jen smrtelnou úzkost a nesmírnou hrůzu; byl prý jistě bled jako křída, vlasy se mu ježily, čelo kryl studený pot, kolena se mu třásla, ba i zuby prý mu cvakaly.
+
+</section>

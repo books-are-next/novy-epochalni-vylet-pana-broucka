@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ##  X.
 
 Náš hrdina (nyní mohu jej tak pojmenovati plným právem) byl v pravém slova smyslu vystrčen blízkou Poříčskou branou od bojovných davů, s hromovým křikem „Hr, Praha!“ proti nepříteli se ženoucích.
@@ -87,3 +89,5 @@ Pan Brouček ohradil se proti nařknutí z němectví a znovu opakoval svou bác
 Jak víme, umínil si náš hrdina, že přejde na čas od Pražanů k táborům, a proto odpověděl: „Abych pravdu řekl, Pražané se mi tuze nelíbí –“, načež po šťastném vnuknutí, vzpomenuv si na hádku v hospůdce, rychle dodal: „A jsem také proti ornátům –“
 
 Tím dobyl si rázem srdce táborského kněze. „Proti mešním plachtám a všem ostatním zbytkům římské modloslužby!“ zvolal pochvalně. „Tak-li tomu, nepatříš mezi Pražany, ale mezi nás.
+
+</section>

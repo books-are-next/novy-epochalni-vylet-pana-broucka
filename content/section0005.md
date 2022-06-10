@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ##  III.
 
 Oddechnuv si řádně na čerstvém vzduchu, uznal pan Brouček především za potřebné zapamatovat si zevnějšek domu, který v sobě skrýval příští jeho bohatství.
@@ -109,3 +111,5 @@ Trapné myšlenky proměnily se přímo v ustrnutí a zděšení, když prodlel 
 Předtím zlobil se sice pan Brouček na rozličné obecní nepořádky, kteréž mu způsobily několik malých nepříjemností; ale v pozadí těch lehkých chmur zářila stále myšlenka na příští velké bohatství a nedopouštěla, aby radostně rozjařená jeho nálada vážně a doopravdy se zkalila. Nyní však zmizel rázem onen radostný pocit a celou duši zachvátilo ohromné zděšení. Chvíli hleděl pan domácí okem hrůzou vypouleným bez pohnutí, jako zkamenělý na strašlivou společnost. Pak začal potichu couvati, až zaskočil rychle za roh blízké poboční ulice. Odtud vyhlédl ještě jednou opatrně k podálnému ležení ozbrojenců: ale rychle zatáhl opět hlavu, neboť se mu zdálo, že děsná společnost obrátila směrem k němu hrozivé obličeje a chápala se svých zbraní, aby jej pronásledovala.
 
 V šíleném strachu ubíhal náš hrdina odtud a teprve po delším běhu, když za sebou ničeho neslyšel, klesl bez dechu na široký patník.
+
+</section>

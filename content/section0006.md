@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## IV.
 
 Chvílí ležel pan Brouček na patníku jako omráčen. Ale hlavou jeho vířila divoká směs myšlenek. Ti hromotluci u brány a jejich zbraně, zvláště ty cepy – ty z musea známé strašné cepy husitské – rázem vnutily mu nestvůrnou myšlenku, že snad člověk s lucernou měl přece pravdu a že on (pan Brouček) stal se náhle současníkem Žižkovým. A bizarní ta domněnka nalézala mocnou podporu v neznámé věžaté bráně, zubaté zdi, starožitném kroji a divné češtině domnělého blázna, v neosvětlenosti a podivném vzezření ulic, v řetězu a šraňku, v úplné neporušenosti klenotů a maleb ve starém domě královském.
@@ -53,3 +55,5 @@ Zdrcen klesl na kamenné sedátko, stojící za sloupem podloubí nárožního d
 A pan Brouček v zoufalé zlosti bil se pěstmi do čela, smál se křečovitě a počínal si opravdu jako šílenec.
 
 A není divu: Vždyť autorovi samému se točí hlava z té matenice časů a duch jeho teskně hledí vstříc následujícím kapitolám, kde bude mu tančiti mečový tanec mezi přítomností a minulostí, v němž utrží leda krvavé šrámy. Ó buďte milosrdní tentokrát, vy pánové, kteří pokládáte českého spisovatele za ubohého lotra na pranýři, po němž každý smí metati úšklebky a blátem pro zábavu obecenstva, které si leda pomyslí: Dobře mu tak, – proč píše!
+
+</section>

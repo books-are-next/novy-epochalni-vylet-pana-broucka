@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ##  XI.
 
 Hejtman Chval uznal i tvou statečnost – budeš řádným bratrem táborem!“
@@ -199,3 +201,5 @@ A dále, dále zněla z tisíce hrdel ta píseň neumělá, však jadrnou silou 
 Posléze dozněla a tábor Žižkův uložil se ke spaní. I bratr Matěj došel dlouho kýženého klidu, chvíli jen ještě vyrušován a pak ve sny ukolébán nějakými žalmy, které starý bratr Stach vedle něho tiše prozpěvoval.
 
 Našemu hrdinovi se zdálo o ryšavém, sedmihlavém draku a ženě hvězdné, která se však poznenáhlu proměnila v půvabnou Domšíkovu dceru...
+
+</section>

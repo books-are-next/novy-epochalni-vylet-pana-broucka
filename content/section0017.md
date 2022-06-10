@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ##  XIV.
 
 „Božínku, copak to tady kuňká?“ ozval se nad panem Broučkem povědomý hlas, a když hlavu povznesl, zočil ustrnulou tvář pana Würfla, nakloněnou k otevřenému sudu.
@@ -51,3 +53,5 @@ Kromě těchto pro celý národ předůležitých zkušeností vytěžil pan dom
 Udeřením sedmé na „orloji“ bývá teď pravidelně „U kokota“ (Vikárce se od památného července jaksi vyhýbá), oklepá tam na „mázhauze“ sníh s „kloku“ a „škorní“, z jídelního lístku vybírá si s oblibou smaženou „kuru“ nebo jazyk s polskou „šalší“, bere si k tomu slaný „roháček“ a při osmém „poháříku“ začíná blouzniti o jablkové „varmuži“. Časem zamyslí se pak hluboce, zapadá v tichou melancholii, z jeho prsou derou se těžké vzdechy a někdy zatřpytí se i slza v jeho zraku – zkrátka, jevívá všechny příznaky nešťastné lásky. Domnívám se, že ho v takových okamžicích zachvacuje beznadějná touha buď po staročeské medovině, neb dokonce po spanilé Kunce, v kterémžto druhém případě by byl arci nejnešťastnějším milovníkem na světě a za své zatvrzelé panictví potrestán způsobem tak ukrutným, že by ani spanilomyslné čtenářky ukrutnější pokuty vymysliti nedovedly.
 
 Vedle oněch morálních výsledků přinesl si pan Brouček ze středověku jedinou hmotnou výslužku: novou podrážku svých bot. Je mu tím milejší, poněvadž ji má zcela zadarmo; pohledávka husitského ševce je totiž dávno promlčena. Hospodyně (kterou mohl pan domácí k jmeninám přece mile překvapiti dárkem v podobě kartounové zástěrky, poněvadž se nepochopitelným způsobem již dne 13. července, tedy před výročním dnem bitvy na Žižkově, do novověku vrátil) upozornila ho sice, že podrážka řečená vypadá zcela jako ona stará, s níž si pan Brouček den předtím na Hradčany vyšel, ale pan domácí vítězně namítl, že arci výrobek patnáctého století nemůže vypadati jako nový a že vůbec již pouhá existence té podrážky svědčí o báječné důkladnosti staročeských obuvníků. Trvanlivost tato činí skoro již zoufalým jistého profesora, který si husitské podešve, až budou roztrhány, vyžádal k vědeckému probádání – kdož prý může věděti, nenajde-li se v nich nějaký nový proužek našich rukopisů, čímž by neblahý spor rázem šťastně byl ukončen. Ale podešve nechtějí a nechtějí se roztrhati, a proto budeme bůhvíjak dlouho ještě čekati na konečnou Obranu dotčeného pana profesora.
+
+</section>

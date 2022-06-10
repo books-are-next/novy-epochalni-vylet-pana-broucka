@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ##  VIII.
 
 Také na úzkých schodech měl náš hrdina potíž se svou sudlicí, která stále vrážela do zdi.
@@ -171,3 +173,5 @@ Obličej Broučkův se povyjasnil jako zázrakem.
 „Opravdu, hospoda!“ zvolal. „A sama si mě zadržela, jako by tušila, že mám pekelnou žízeň. Toť zrovna pokynutí osudu, abychom vešli.“
 
 „Budiž, jsi-li žízniv, vejděme na pohářík,“ svolil Domšík, – čemuž jsem upřímně povděčen, poněvadž myslím, že čtenářstvo má suchopárného líčení dávných pražských ulic právě dosyta.
+
+</section>
