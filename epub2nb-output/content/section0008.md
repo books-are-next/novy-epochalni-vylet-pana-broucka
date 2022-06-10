@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ##  VI.
 
 Spánek asi čtyřhodinný osvěžil pana Broučka zázračně.
@@ -265,3 +267,5 @@ Host byl tomuto obratu od vojenských věcí ke kuchyňským velmi povděčen. B
 Byl zvědav na staročeskou kuchyni. Dle dosavadních zkušeností ve středověku neočekával příliš jemné a vybrané přípravy; ale zato nadál se jadrné podstatnosti, ke které mu již kuchař hlad přidá všeho žádoucího koření.
 
 Poněkud ho jen tísnila myšlenka na představení dámám: nechť cokoli řeknou spanilé čtenářky, zatajiti nemohu, že panu Broučkovi bývá všude jinde volněji než v dámské společnosti.
+
+</section>

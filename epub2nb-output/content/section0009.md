@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## VII.
 
 Vstup našeho hrdiny do staročeského salonu nebyl příliš důstojný, zakopl totiž o práh a upadl přes dlouhé špičky svých škorní, při čemž se zároveň zamotal do řasnatého kloku tak, že by se byl bez pomoci Jankovy sotva zase dostal na nohy.
@@ -355,3 +357,5 @@ A zatočil palicí s dlouhými železnými bodlinami tak bez okolků, že pan Br
 Nato podaly ženské i hosti ruku, kterouž on Mandaleně na veliké její překvapení zdvořile políbil a Kunce s významným pohledem stiskl.
 
 Vycházeje ze dveří, měl nemalý svízel se svým dlouhým dřevcem, ale dostal se šťastně ven, až na to, že při náhlém obratu dolejším koncem sudlice poněkud nešetrně o Kunku zavadil a s truhly množství narovnaného nádobí smetl, kteréž se většinou na podlaze rozbilo v střepy.
+
+</section>

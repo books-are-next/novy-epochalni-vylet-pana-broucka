@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ##  XIII.
 
 S ulehčenou plecí i myslí chvátal pan Brouček dále. Ale brzy zabloudil v neznámých ulicích středověké Prahy, takže teprve po dobré hodině šťastně dostihl domu U bílého zvonu.
@@ -171,3 +173,5 @@ Ostatně mohu následující děj naznačiti jen v několika hlavních, příše
 Polomrtev byl dovlečen za křiku a lání davu k pranýři na Staroměstském náměstí – lid snesl tam za chvíli hromadu polen a slámy – pračata přivalila veliký sud – zaslechl ještě jako v mrákotách, že vyvalili sud ten z Pekla (pivovar ten byl nyní hoden svého jména!) – ozval se praskot dřev, vyšlehly rudé plameny a příšerně ozářily strakatý středověký dav, jímž se prodrala hrbatá ohyzdná babice, čímsi nad hlavou máchajíc a zlobně spílajíc: „Dobře tak! Upalte zlého čarodějníka! Hle, tuto vrhám k němu na hranici pekelnou krabičku s kouzelnými slovy a ďábelské koření, kterým začaroval náš dům, že se stal příbytkem neštěstí. Jdi k satanu, ohavný kouzelníku, jemuž jsi zapsal černou duši svou.“ – Nato podnikl pan Brouček ještě poslední marný zápas s lítými katy, kteří ho svázaného vstrčili do sudu, – naposled zdálo se mu, že zahlédl v otevřeném okně domu Domšíkova smutnou tvář spanilé Kunky, pak objala jej tma, zabušily palice, vrážející nad ním víko v otvor sudu, sud začal se s ním valiti blíže k praskajícímu ohni.
 
 Mrákoty obestřely jeho mysl a jen jako vzdálená hvězda zamihla se těmi chmurami ještě líbezná představa Domšíkovy dcery; zakalený duch upjal se k ní bláhově jako k poslednímu zásvitu naděje a z prsou vydral se chroptivý, zoufalý hlas: „Kunko! Kunko!“
+
+</section>

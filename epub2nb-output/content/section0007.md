@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## V.  
 
 „Což tuto činíš? Kto jsi?“ zaznělo ostře nad zoufalým panem domácím.
@@ -50,7 +52,9 @@ Pan domácí zapýřil se až do temna při té snižující lži, ke které se 
 
 „A mluvíš pravdu?“ zvolal Domšík, hledě mu pronikavě do očí. „Jsi tedy pravý Čech? Nejsi pytač z vojska Zikmundova?“
 
-  
+</section>
+
+<section>
 
 Místo odpovědi zdvihl pan Brouček slavně tři prsty k nebesům. Vždyť na ty dvě věci mohl přísahati s čistým svědomím.
 
@@ -259,3 +263,5 @@ Při zouvání shledal na jedné botě žalostný úraz. Podpatek i s kusem pode
 Podíval se ještě na hodinky a shledal, že ukazují na půl druhé. Jakž by se nezbláznily, když sám čas ztratil rozum a zaběhl se o pět století nazpátek! Poněvadž v červenci slunce vychází asi o čtvrté hodině, usoudil, že bude asi půl páté.
 
 Lehl si poloodstrojen na postel a za chvilku usnul. Poslední myšlenka, která mu divokým vírem nedávných dojmů prokmitla mozkem, bylo toužebné pomyšlení, kéž by se tak probudil na své pohodlné posteli ve své útulné ložnici a shledal, že byl celý výlet do středověku pouhým škaredým snem!
+
+</section>

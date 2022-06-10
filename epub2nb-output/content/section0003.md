@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## I.
 
 Třeba dosvědčiti, že pan Brouček slávou, kterou mu zjednal epochální výlet na měsíc, ani dost málo nezpyšněl. Zpráva o jeho úžasných výzkumech rozlétla se po vlasti a jméno Brouček chvělo se na každém rtu; ba, kvůli němu vjelo si do vlasů několik redakcí a stran, z nichž každá drala se o jeho přízeň a podkládala mu svoje tendence. Ale pan Brouček moudře a skromně mlčel. Nestaraje se o vřavu veřejnosti, vybíral klidně dál svou činži a trávil své večery jako dříve mezi starými známými U kohouta nebo na Vikárce, ale zde řidčeji – odvažovalť se k panu Würflovi jen za novoluní nebo byla-li obloha mračny zastřena. 
@@ -31,3 +33,5 @@ A ještě když sedím v hostinské jizbě u hlubokého výklenku okna, z něho�
 Čtenář mi promine, že mluvím trochu déle o sobě. Vždyť ví, s jakou sympatií lnou všichni autoři vůbec k své osobě. Je skutečně zvláštní, jak rádi se obírají sebou samými a s jakou pietou se k osobě své chovají. Nemluvím ani o lyrických básnících, kteří se věnují zpravidla výhradně kultu svého šlechetného a drahocenného Já; nemluvím o cestopiscích, kteří cizích krajin a národů užívají většinou toliko za malebnou stafáž k své zajímavé osobnosti, imponující čtenáři při každém kroku vpravdě gentlemanskou jistotou a vybroušeností, ač třeba často bývala dosti komickou figurkou pro ty spolucestující a domorodce, které sama líčí jen s pohrdavým humorem, – ale již neobejde se bez vystoupení autora, všemi ctnostmi ozdobeného, ani žádná báseň epická, žádný román, žádná novela nebo črta, a brzy nadejde bezpochyby doba, kdy také dramatičtí spisovatelé vřadí svou vlastní vděčnou figuru mezi osoby svých kusů. Ani učení spisovatelé nechovají se jinak. Alespoň pod řádkou musí do svých studií a monografií vpraviti „spisovatele těchto řádků“ a z každé stránky vyzírá opravdová úcta, jakou chovají k „autoru tohoto pojednání“.
 
 Než dosti již reflexí; přistupme k ději!
+
+</section>
