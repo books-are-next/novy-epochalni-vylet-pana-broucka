@@ -6,6 +6,10 @@ contentType: prose
 
 ##  XIII.
 
+</section>
+
+<section>
+
 S ulehčenou plecí i myslí chvátal pan Brouček dále. Ale brzy zabloudil v neznámých ulicích středověké Prahy, takže teprve po dobré hodině šťastně dostihl domu U bílého zvonu.
 
 Cestou potkával jen málo lidí; patrně byla valná většina u bran a zdí městských. Také dům Jankův byl jako vymřelý. Ani v průjezde, ani na paláci nepotkal pan Brouček nikoho a nezaslechl ani známky života. Domšík byl zajisté mezi bojovníky pražskými a ženské meškaly bezpochyby také někde u brány nebo na zdi městské, očekávajíce výsledek boje.
@@ -88,6 +92,10 @@ Vtom přihrnul se ulicí Celetnou nový, valný příboj lidu a vítězný jeho 
 
 Vpředu vyšlapoval si hrdě zástup osmahlých hochů táborských se svými ručními praky a k nim družilo se množství dítek městských, nesoucích v ruce zelené ratolesti, namnoze i malými mečíky a oštípky máchajících. Očka drobného předvoje jiskřila se pýchou a veselím a svěží, jasné hlásky horlivě prozpěvovaly neumělou sice, ale z vroucího citu vyplynulou píseň, kterou táborský kněz Čapek v radostném zanícení hned na bojišti na oslavu vítězství složil. Nyní kráčel sám v čele dítek a předzpěvoval jim svoji skladbu:
 
+</section>
+
+<section>
+
 Dietky, Bohu zpievajmy,
 
 jemu čest, chválu vzdávajmy
@@ -105,6 +113,10 @@ zarmútil, zastrašil i rozehnal ot dietek malých,
 mnoho sem, mnoho tam k utěšení svých milých stálých. 
 
 Milý otče! přijmiž chválu ot Čechóv věrných!
+
+</section>
+
+<section>
 
 Za dětmi kráčela velebná postava onoho pražského kněze, který bojovníky městské do bitvy vedl; v rukou držel dosud na tenké, vysoké žerdi blyštivou svátost a před ním bral se zvonící žáček.
 

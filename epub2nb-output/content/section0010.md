@@ -24,9 +24,17 @@ A lítá babizna, ve strakatém zakuklení strašidlu podobná, podpírajíc bok
 
 „Mlčiž, domudnice!“ okřikl ji Domšík a soudruha pobídnul: „Pojd dále! Mezi těmito cti nedobudeš. Pravdu jsem slyšel v jedné studentské hře velikonoční, žeť zlá baba horší nežli čert:
 
+</section>
+
+<section>
+
 Črta sě odžehnati muože – 
 
 rač zlé baby uchovati, bože!“
+
+</section>
+
+<section>
 
 Hodnou chvíli slyšeli za sebou hanlivý křik prodavaček a halas dětí, které ve svých strakatých středověkých šatičkách ještě kus cesty za Broučkem poskakovaly jako rej pitvorných gnomů.
 

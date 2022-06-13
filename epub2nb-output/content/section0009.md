@@ -94,9 +94,17 @@ Pana domácího nudila již ta staročeská politika, a proto raději odstoupil 
 
 „Slepice neboli kura,“ potvrdil Domšík. „Ale neboj se staré, houževnaté slepice; budeš míti kuře. Ačkoliv odraný žák ve starém kratochvilném skládání podkonímu se chlubí:
 
+</section>
+
+<section>
+
 od stravyť sě mámy pyšně, 
 
 masa, kur dosti přielišně –
+
+</section>
+
+<section>
 
 vím, že se nemohu před hostem pyšniti sprostým kuřetem.“
 
@@ -169,6 +177,10 @@ Host pustil se do silné polévky a shledal, že má chuť sice trochu nezvyklou
 „Ó děkuju. Je znamenitá!“
 
 Pan Brouček vyprázdnil i druhý vrchovatý talíř s plnou chutí. Rozehřáté tváře leskly se mu krůpějemi potu a libým uspokojením.
+
+</section>
+
+<section>
 
 Postrádal nyní jedině ubrousku. Byl z devatenáctého století zvyklý uvázat si po každé před jídlem pečlivě kolem krku čistý ubrousek s cípy trčícími vzadu v podobě velikých bílých uší a tato stolní toaleta bývala nejmilejším jeho výkonem. Zde však neměl ani, čím si otříti ústa. Tu zahlédl, kterak hostitel k dolejšímu, kolem stolu obvěšenému ubrusu se nahnul a v jeho záhybech rty sobě osušil.
 
