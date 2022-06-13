@@ -138,6 +138,10 @@ Posléze ukončil své kázání, za nímž ozval se bouřlivý souhlas nadšen�
 
 Ale vtom rozlehl se zpěv:
 
+</section>
+
+<section>
+
 Kdož jste bojovníci 
 
 a zákona jeho, 
@@ -150,7 +154,15 @@ a doufejtež v něho, 
 
 vždycky zvítězíte.
 
+</section>
+
+<section>
+
 Z počátku zpíval jen hlouček, ale brzy vpadaly nové a nové hlasy, takže druhá sloka zněla již mohutným, hřímavým sborem:
+
+</section>
+
+<section>
 
 Tenť Pán velí se nebáti
 
@@ -164,9 +176,17 @@ protož posilňte
 
 zmužile srdci svých.
 
+</section>
+
+<section>
+
 „Můj bože! Takové hulákání! Ani vyspat se tu člověk nemůže!“ bědoval a zlobil se v duchu zoufalý bratr Matěj.
 
 Ale musel poslouchati ještě i následující sloky písně táborské:
+
+</section>
+
+<section>
 
 Kristus vám za škody stojí,
 
@@ -180,6 +200,10 @@ blaze každému, 
 
 kdož na pravdě sejde.
 
+</section>
+
+<section>
+
 Protož střelci, kopidlníci 
 
 řádu rytířského,
@@ -192,9 +216,17 @@ pomnětež všickni 
 
 na Pána štědrého.
 
+</section>
+
+<section>
+
 Nepřátel se nelekejte, 
 
 na množství nehleďte ––
+
+</section>
+
+<section>
 
 A dále, dále zněla z tisíce hrdel ta píseň neumělá, však jadrnou silou a vroucí vírou naplněná, ta píseň samým Žižkou prý složená, před jejímž pouhým vzdáleným hlaholem později valné voje na útěk se dávaly, – dále hřímala tu velebně a nadšeně s hřebenu Vítkovy hory daleko do umlklé noční krajiny.
 

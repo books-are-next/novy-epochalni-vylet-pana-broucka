@@ -8,6 +8,10 @@ contentType: prose
 
 Ó slunce velikého, věčně památného dne! Ty, kteréžs ozářilo skrovný voj hrdin, jakých málo se zaskvělo v dějinách lidstva, kteréžs okázalo světu, seč jest národ malý, vede-li jej horoucí nadšení, obětující radostně statek i život za svaté přesvědčení, ty pochodni nebeská, kteráž zaplápolalas nad horou Vítkovou, abys čela bohatýrských předků věnčila glorií slávy nesmrtelné, – ó slunce, jehož odlesky ještě po staletích rozehřívají k silnějšímu tluku mdlá srdce potomků: kolik zanícení chovati může nitro české, kolik slov úchvatných a plamenných jazyk náš, všechna by měla splynouti v ódu velebnou, vítající tvůj triumfální vzchod na zlatém a purpurovém obzoru! Ale s časem změnili se i lidé. Nesčíslněkrát vzešlo jako tehdáž krásné letní slunce nad Vítkovem, však nikdy již neozářilo božích bohatýrů a po staletích svítí na pokolení malé, bez pravdy a síly, bez nadšení, cedícího poslední krůpěj krve za drahý ideál, na pokolení, které již sotva rozumí a věří velkému činu předků a usmívá se zvěsti o něm jako staré, divné pohádce, kterou již i nudno poslouchati. Neschopno jsouc oněch velkých obětí a zápalů, vymlouvá se na jiné časy a poměry, zapovídá si vyprávění o slavném skutku minulém a skládá přitom ruce v klín nebo robí trety, – ó zapadlé slunce naší síly, zda vyjdeš opět a najdeš i básníka, jenž dovede tě uvítat plamenným nadšením a ne prázdným zvoněním slov a malichernou karikaturou jako já!
 
+</section>
+
+<section>
+
 \*
 
 „Vstávej, bratře Matěji, – jižť čas!“
@@ -38,6 +42,10 @@ Bratru Matějovi bylo, jako by nastával soudný den. S hrůzou pozoroval, ktera
 
 Právě když zvučela bojovně poslední sloka:
 
+</section>
+
+<section>
+
 A s tím vesele zkřikněte,
 
 řkouc: Na ně! hrr na ně! 
@@ -49,6 +57,10 @@ Bůh náš Pán! zkřikněte, 
 bite, zabíte, 
 
 žádného neživte!
+
+</section>
+
+<section>
 
 vmísil se do ní divoký křik a třeskný hlahol trub se strany východní, kde míšeňská jízda po mírněji skloněném svahu vzhůru byla vyjela a nyní po hřebenu hory úprkem se hnala na srub v té straně stojící.
 
