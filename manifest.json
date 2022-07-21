@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "cech-novy-epochalni-vylet-pana-broucka-tentokrat-do-15-stoleti-0a243f5",
-  "revision": "0a243f5",
+  "identifier": "cech-novy-epochalni-vylet-pana-broucka-tentokrat-do-15-stoleti-8e511ab",
+  "revision": "8e511ab",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -32,8 +32,8 @@
     "section0002.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 09:55:21 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657187721040
+    "date": "Thu Jul 21 2022 14:47:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414868341
   },
   "documents": [
     {
@@ -523,8 +523,8 @@
   ],
   "totals": {
     "all": {
-      "words": 46665,
-      "chars": 287303,
+      "words": 46666,
+      "chars": 287298,
       "ideas": 1088
     },
     "chapters": {
